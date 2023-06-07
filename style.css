@@ -1,0 +1,20 @@
+h1,
+h2,
+h3 {
+    font-family: 'Teko', sans-serif;
+}
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+
+}
+
+.main {
+    background-image: url("./images/background.png");
+}
+
+.education {
+    background-color: rgb(202, 202, 202);
+}
